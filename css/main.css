@@ -17,7 +17,8 @@ body {
 
 .container {
   width: 100vw;
-  height: 100vh;
+/*   height: 100vh; */
+  height: 100dvh;
   background-color: #e4e4e4;
   padding: 1em;
   display: grid;
